@@ -4,11 +4,7 @@
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" alt="Hola gif" />
 </p>
 
----
 
-### 🚀 Sobre mí
-
-Soy desarrollador apasionado por JavaScript, Vue.js y Node.js. Me encanta crear soluciones limpias, eficientes y modernas.
 
 ---
 
